@@ -3,7 +3,7 @@ spring:
     name: EurekaServiceRegistry
     
 server:
-  port: 1111
+  port: 8881
   
 eureka:
   instance:
